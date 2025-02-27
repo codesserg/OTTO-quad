@@ -1,0 +1,13 @@
+OTTO Spider  -- Componentes
+
+1X Módulo ultrasónico HC-SR04
+8X Mini servo SG90 9g
+1X Arduino nano
+1X Arduino nano shield
+
+------Opcionales------
+1X Buzzer
+1X Bluetooth HC-05
+
+------Video montaje------
+https://drive.google.com/file/d/1c1CXbyjt5nr1P8UpuDSEyV9YMqd4guHM/view?usp=sharing
